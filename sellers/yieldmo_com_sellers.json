@@ -1,0 +1,3018 @@
+{
+    "contact_address": "1 Tara Boulevard, Suite 200, Nashua, NH, 03062",
+    "contact_email": "progsupport@yieldmo.com",
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "6a92c77cfc3d2258"
+        },
+        {
+            "name": "DUNS",
+            "value": "078290885"
+        }
+    ],
+    "last_modified": "1717704001633",
+    "sellers": [
+        {
+            "domain": "everydayhealthgroup.com",
+            "name": "Everyday Health Group",
+            "seller_id": "9876333000",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thepostgame.com",
+            "name": "ThePostGame.com",
+            "seller_id": "9999999600",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gray.tv",
+            "name": "Gray Digital Media",
+            "seller_id": "657801018700668559",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "buzzfeed.com",
+            "name": "Buzzfeed, Inc.",
+            "seller_id": "692692698490674803",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "warnermediagroup.com",
+            "name": "WarnerMedia",
+            "seller_id": "764343212726492773",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotdashmeredith.com",
+            "name": "Meredith Corporation",
+            "seller_id": "767956262603923005",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "a360media.com",
+            "name": "a360 Media",
+            "seller_id": "839013992667749398",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "univision.com",
+            "name": "Univision",
+            "seller_id": "865880052654087357",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "valnetinc.com",
+            "name": "Valnet",
+            "seller_id": "891056863683747477",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "voxmedia.com",
+            "name": "Vox Media",
+            "seller_id": "904966054261497744",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tribpub.com",
+            "name": "Tribune Publishing",
+            "seller_id": "1082592725714712772",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotdashmeredith.com",
+            "name": "Meredith Corporation",
+            "seller_id": "1115741677360101711",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nationsinfocorp.com",
+            "name": "Global Info LLC",
+            "seller_id": "1174574883592845626",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elclasificado.com",
+            "name": "El Clasificado",
+            "seller_id": "1186836590522694659",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotdashmeredith.com",
+            "name": "Meredith Corporation",
+            "seller_id": "1202011857450547606",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "warnermediagroup.com",
+            "name": "WarnerMedia",
+            "seller_id": "1219568046963013673",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fandom.com",
+            "name": "Wikia",
+            "seller_id": "1230969782894180972",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "abc.go.com",
+            "name": "ABC News",
+            "seller_id": "1236078710078421220",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "scripps.com",
+            "name": "Scripps",
+            "seller_id": "1383347179902842897",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "disney.com",
+            "name": "ABC Local",
+            "seller_id": "1427553271993972922",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "heritagepublishinginc.com",
+            "name": "Heritage Publishing",
+            "seller_id": "1444069701671615991",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "advancelocal.com",
+            "name": "Advance Digital",
+            "seller_id": "1486099725523728395",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "warnermediagroup.com",
+            "name": "WarnerMedia",
+            "seller_id": "1556425156826872341",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ziffdavis.com",
+            "name": "Ziff Davis",
+            "seller_id": "1602796127869631786",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "weather.com",
+            "name": "IBM",
+            "seller_id": "1607994634425186451",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pmc.com",
+            "name": "Penske Media Corp.",
+            "seller_id": "1686145252517905785",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "g-omedia.com",
+            "name": "G/O Media, Inc",
+            "seller_id": "1701426062972061316",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Vox Media (via Google EB)",
+            "seller_id": "1703681279037966154",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst",
+            "seller_id": "1704214613136672668",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Wikia (via Google EB)",
+            "seller_id": "1728181343311529189",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "adapex.io",
+            "name": "Adapex",
+            "seller_id": "1779615309230671174",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "mediavine.com",
+            "name": "Mediavine",
+            "seller_id": "1803631463666189593",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "snopes.com",
+            "name": "Snopes.com",
+            "seller_id": "1823148729717916915",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst",
+            "seller_id": "1839368002412906317",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "kueez.com",
+            "name": "Kueez Entertainment",
+            "seller_id": "1859431084048680259",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "9to5mac.com",
+            "name": "9to5",
+            "seller_id": "1866032524045223118",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "g-omedia.com",
+            "name": "G/O Media, Inc",
+            "seller_id": "1881216373012202676",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotdashmeredith.com",
+            "name": "Meredith Corporation",
+            "seller_id": "1956595881495659956",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "buzzfeed.com",
+            "name": "Old Buzzfeed DO NOT USE",
+            "seller_id": "1961662184501708540",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "warnermediagroup.com",
+            "name": "WarnerMedia",
+            "seller_id": "1981084746893657653",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "trustedmediabrands.com",
+            "name": "Trusted Media Brands",
+            "seller_id": "1997050117815436813",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "trustedmediabrands.com",
+            "name": "Trusted Media Brands",
+            "seller_id": "1997050459189839374",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nasdaq.com",
+            "name": "Nasdaq",
+            "seller_id": "1997185362938201833",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "medianewsgroup.com",
+            "name": "Media News Group",
+            "seller_id": "1997186040267966187",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst Magazines",
+            "seller_id": "2002949167987197600",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "usatoday.com/sports",
+            "name": "USA Today Sports",
+            "seller_id": "2021092631773873174",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "famousbirthdays.com",
+            "name": "Famous Birthdays",
+            "seller_id": "2041324366180550479",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "farlex.com",
+            "name": "Farlex Inc",
+            "seller_id": "2041363019653089199",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fandom.com",
+            "name": "Wikia",
+            "seller_id": "2051466995480298905",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "a360media.com",
+            "name": "a360 Media",
+            "seller_id": "2052105591845454873",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "slickdeals.net",
+            "name": "SlickDeals LLC",
+            "seller_id": "2053641666623603818",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "warnermediagroup.com",
+            "name": "WarnerMedia",
+            "seller_id": "2058639145983181826",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bdg.com",
+            "name": "BDG Media Inc",
+            "seller_id": "2059388965509301253",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst",
+            "seller_id": "2062414261577745854",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "internetbrands.com",
+            "name": "Internet Brands",
+            "seller_id": "2063802973846931401",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Hearst (via Google EB)",
+            "seller_id": "2068247566957052980",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "univision.com",
+            "name": "Univision",
+            "seller_id": "2068275112486536319",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Fox News (via Google EB)",
+            "seller_id": "2068812498652005784",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Reuters (via Google EB)",
+            "seller_id": "2072471069101033082",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "sortable.com",
+            "name": "Sortable",
+            "seller_id": "2077570232935417324",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Valnet (via Google EB)",
+            "seller_id": "2087130880702842815",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "SlickDeals LLC (via Google EB)",
+            "seller_id": "2087676100116907090",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "System1, LLC (via Google EB)",
+            "seller_id": "2099295185493722243",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "verticalscope.com",
+            "name": "Hometalk",
+            "seller_id": "2102361577688303341",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tribpub.com",
+            "name": "Tribune Publishing",
+            "seller_id": "2102997786261357594",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "system1.com",
+            "name": "System1, LLC",
+            "seller_id": "2108135906682242446",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "News12 (via Google EB)",
+            "seller_id": "2108745228894242245",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Zulily.com (via Google EB)",
+            "seller_id": "2128361816786109764",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Tribune Publishing (via Google EB)",
+            "seller_id": "2130427170014266689",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ranker.com",
+            "name": "Ranker Inc",
+            "seller_id": "2130560558654195126",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Ranker Inc (via Google EB)",
+            "seller_id": "2130560791001859511",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Frankly Media (IB Times) (via Google EB)",
+            "seller_id": "2134876697706267792",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "famousbirthdays.com",
+            "name": "Famous Birthdays",
+            "seller_id": "2139250048532907094",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pmc.com",
+            "name": "Penske Media Corp.",
+            "seller_id": "2140637891423537086",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Evolve Media (via Google EB)",
+            "seller_id": "2140671444395919308",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Everyday Health Group (via Google EB)",
+            "seller_id": "2140673549592594384",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "WarnerMedia (via Google EB)",
+            "seller_id": "2140675095243950036",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Retail Me Not (via Google EB)",
+            "seller_id": "2142906976542819586",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Sinclair Broadcasting (via Google EB)",
+            "seller_id": "2144243194287261257",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Media News Group (via Google EB)",
+            "seller_id": "2144293040167749306",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Cafe Media (via Google EB)",
+            "seller_id": "2144304518241355475",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "g-omedia.com",
+            "name": "G/O Media, Inc",
+            "seller_id": "2150098008502076779",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sbgi.net",
+            "name": "Sinclair Broadcasting",
+            "seller_id": "2153012448771867836",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Nasdaq (via Google EB)",
+            "seller_id": "2155263540083721635",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "voxmedia.com",
+            "name": "Vox Media",
+            "seller_id": "2156004784716022825",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Legacy.com, Inc. (via Google EB)",
+            "seller_id": "2163993817547179515",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Obox Media (via Google EB)",
+            "seller_id": "2163997354956064261",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Digital Trends (via Google EB)",
+            "seller_id": "2170311750770656579",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Gray Digital Media (via Google EB)",
+            "seller_id": "2170313095321912655",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "digitaltrends.com",
+            "name": "Digital Trends",
+            "seller_id": "2171135692875925390",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "buzzfeed.com",
+            "name": "Buzzfeed, Inc.",
+            "seller_id": "2171159753744091024",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "weather.com",
+            "name": "The Weather Company",
+            "seller_id": "2184047240489370753",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "The Weather Company",
+            "seller_id": "2184047424703202434",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Meredith Corporation (via Google EB)",
+            "seller_id": "2195761149558555948",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "nexstar.tv",
+            "name": "Nexstar",
+            "seller_id": "2196412288696223222",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Viber Media (via Google EB)",
+            "seller_id": "2201455576088216845",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Paramount (via Google EB)",
+            "seller_id": "2209431261108930012",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "eBay.com (via Google EB)",
+            "seller_id": "2209474384082142685",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Advance Digital (via Google EB)",
+            "seller_id": "2218902401053263721",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "nextmillennium.io",
+            "name": "Next Millennium Media",
+            "seller_id": "2230523609997805235",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "minutemedia.com",
+            "name": "Minute Media",
+            "seller_id": "2231216499405260653",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "Mediavine (via Google EB)",
+            "seller_id": "2231250809323685813",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ancestry.com",
+            "name": "Ancestry.com",
+            "seller_id": "2239926448008365661",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "minutemedia.com",
+            "name": "Minute Media",
+            "seller_id": "2240559316355155321",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "Cumulus Media (via Google EB)",
+            "seller_id": "2241328713536839693",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Dexerto (via Google EB)",
+            "seller_id": "2244310044152333840",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Freestar (via Google EB)",
+            "seller_id": "2266071064017274661",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Windfinder (via Google EB)",
+            "seller_id": "2270391575950034524",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "valnetinc.com",
+            "name": "Valnet",
+            "seller_id": "2270984639789828016",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ziffdavis.com",
+            "name": "Ziff Davis",
+            "seller_id": "2271859392603169445",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "everydayhealthgroup.com",
+            "name": "Everyday Health Group",
+            "seller_id": "2271869095471161425",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "BDG Media Inc (via Google EB)",
+            "seller_id": "2276814970647683706",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ancestry.com",
+            "name": "Ancestry.com",
+            "seller_id": "2281297204029104418",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "paramount.com",
+            "name": "Paramount",
+            "seller_id": "2282668022541787137",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Salary.com (via Google EB)",
+            "seller_id": "2305209321161433736",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "salary.com",
+            "name": "Salary.com",
+            "seller_id": "2305767043778945936",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zynga.com",
+            "name": "Zynga",
+            "seller_id": "2305770897547404179",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "disqus.com",
+            "name": "Disqus (not launching)",
+            "seller_id": "2310991151693243312",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "webmd.com",
+            "name": "WebMD",
+            "seller_id": "2312391608173011085",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Adapex (via Google EB)",
+            "seller_id": "2335578239436530449",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Tegna (via Google EB)",
+            "seller_id": "2336271288454029877",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "tegna.com",
+            "name": "Tegna",
+            "seller_id": "2336398902183272760",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Gasbuddy (via Google EB)",
+            "seller_id": "2337004359662904218",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "politico.com",
+            "name": "Politico.com",
+            "seller_id": "2346505231157633893",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "voicemediagroup.com",
+            "name": "Voice Media",
+            "seller_id": "2347085211377803711",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "System1, LLC (via Google EB)",
+            "seller_id": "2362420566213730305",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Ziff Davis (via Google EB)",
+            "seller_id": "2363893251091407112",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Investing Channel (via Google EB)",
+            "seller_id": "2376103855495520349",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "freestar.com",
+            "name": "Freestar",
+            "seller_id": "2396533383539662849",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "wikihow.com",
+            "name": "WikiHow",
+            "seller_id": "2399319417490972848",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "WikiHow (via Google EB)",
+            "seller_id": "2399329105309802674",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "ABC Local (via Google EB)",
+            "seller_id": "2399506510611685732",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Flo Sports (via Google EB)",
+            "seller_id": "2404360311478887023",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ranker.com",
+            "name": "Ranker Inc",
+            "seller_id": "2404553057422483905",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gannett.com",
+            "name": "Gannett Co",
+            "seller_id": "2408073833048122257",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Leaf Group (via Google EB)",
+            "seller_id": "2418264214498911122",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Swift Media Entertainment Inc (via Google EB)",
+            "seller_id": "2421681538522357781",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "slacker.com",
+            "name": "Slacker Inc",
+            "seller_id": "2423227851110032303",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Slacker Inc (via Google EB)",
+            "seller_id": "2423231029771707313",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "impalastudios.com",
+            "name": "Impala Studios",
+            "seller_id": "2424107716491288641",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pmc.com",
+            "name": "She Media",
+            "seller_id": "2434164660547559439",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dexerto.com",
+            "name": "Dexerto",
+            "seller_id": "2434205844519199129",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "DMG Media",
+            "seller_id": "2444267605700060065",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "wikihow.com",
+            "name": "WikiHow",
+            "seller_id": "2448573931389395401",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "arkadium.com",
+            "name": "Arkadium",
+            "seller_id": "2452292453533688645",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mamasuncut.com",
+            "name": "Mamas Uncut LLC",
+            "seller_id": "2452927734184092490",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "paramount.com",
+            "name": "Paramount",
+            "seller_id": "2452991121232437249",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "glowing.com",
+            "name": "Glow Inc.",
+            "seller_id": "2463166444293006049",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dmgmedia.co.uk",
+            "name": "DMG Media",
+            "seller_id": "2463236923666145496",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "grahammedia.com",
+            "name": "Graham Media Group",
+            "seller_id": "2468199505493697375",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "voxmedia.com",
+            "name": "Vox Media",
+            "seller_id": "2468495933289997288",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "investingchannel.com",
+            "name": "Investing Channel",
+            "seller_id": "2469484010506494152",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "retailmenot.com",
+            "name": "Retail Me Not",
+            "seller_id": "2473207659491172740",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "news.co.uk",
+            "name": "NewsUK",
+            "seller_id": "2473342089509675967",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "NewsUK (via Google EB)",
+            "seller_id": "2473342293956830145",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "news.co.uk",
+            "name": "NewsUK",
+            "seller_id": "2473342815468200899",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "seattletimes.com",
+            "name": "The Seattle Times Company",
+            "seller_id": "2473831986246918591",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "TeamSnap Inc (via Google EB)",
+            "seller_id": "2474658309601173747",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "My Radar ACME (via Google EB)",
+            "seller_id": "2475412424212029507",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ionedigital.com",
+            "name": "Interactive One LLC",
+            "seller_id": "2478184525809525505",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Proper Media (via Google EB)",
+            "seller_id": "2478903105479975392",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Dictionary.com (via Google EB)",
+            "seller_id": "2483496531848536164",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "nexstar.tv",
+            "name": "Nexstar",
+            "seller_id": "2489872524305703224",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "weatherbug.com",
+            "name": "Weather bug",
+            "seller_id": "2497882879007072542",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dailydot.com",
+            "name": "The Daily Dot LLC",
+            "seller_id": "2505779487984001085",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "webtoons.com",
+            "name": "Webtoon Entertainment Inc",
+            "seller_id": "2510044603864785286",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ondemandkorea.com",
+            "name": "ODK Media",
+            "seller_id": "2513703450416455712",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Monumetric (via Google EB)",
+            "seller_id": "2518831497914294538",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "monumetric.com",
+            "name": "Monumetric",
+            "seller_id": "2518832149079990540",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "flosports.tv",
+            "name": "Flo Sports",
+            "seller_id": "2520296837433205333",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "ODK Media (via Google EB)",
+            "seller_id": "2520468159509504707",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Wetter Online (via Google EB)",
+            "seller_id": "2523396239764955552",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "cafemedia.com",
+            "name": "Cafe Media",
+            "seller_id": "2529157218733858832",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "koreaboo.com",
+            "name": "Koreaboo Inc",
+            "seller_id": "2530368438182814425",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "newsbreak.com",
+            "name": "News Break",
+            "seller_id": "2545589984740450625",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Times Internet Limited (via Google EB)",
+            "seller_id": "2551364808746147911",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "audiomackinc.com",
+            "name": "Audiomack Inc.",
+            "seller_id": "2553715745624105208",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "elo.io",
+            "name": "Elo Entertainment Inc",
+            "seller_id": "2555114197016846634",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "PhoneArena (via Google EB)",
+            "seller_id": "2565941784421015595",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "venturebeat.com",
+            "name": "Venture beat",
+            "seller_id": "2581176787715170348",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "newsbreak.com",
+            "name": "News Break",
+            "seller_id": "2584729219153993838",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Absolute Sports (via Google EB)",
+            "seller_id": "2589817564636849111",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "usatoday.com/sports",
+            "name": "USA Today Sports",
+            "seller_id": "2594289519331058328",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "loladigitalmedia.com",
+            "name": "Lola Digital Media",
+            "seller_id": "2595750315873476705",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Cars.com Inc (via Google EB)",
+            "seller_id": "2596595195323556155",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "worldhistory.org",
+            "name": "World History Publishing Ltd",
+            "seller_id": "2597034225521598498",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Triple13 (via Google EB)",
+            "seller_id": "2599305682435907728",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "OneFootball (via Google EB)",
+            "seller_id": "2601162141188694301",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "onefootball.com",
+            "name": "OneFootball",
+            "seller_id": "2601162675106816287",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "curatedcontentltd.com",
+            "name": "Curated Content LTD",
+            "seller_id": "2602119934825669336",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "slickdeals.net",
+            "name": "SlickDeals LLC",
+            "seller_id": "2606721473590534259",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Everyday Health Group (via Google EB)",
+            "seller_id": "2606768998938779873",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "britannica.com",
+            "name": "Encyclopaedia Britannica Inc",
+            "seller_id": "2617518760327585830",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "easybrain.com",
+            "name": "Easybrain",
+            "seller_id": "2626169231812534356",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Encyclopaedia Britannica Inc",
+            "seller_id": "2631986238998913230",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "weather.com",
+            "name": "The Weather Company",
+            "seller_id": "2653050012623118595",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "letsrun.com",
+            "name": "LetsRun.com LLC",
+            "seller_id": "2655737644067004468",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Hispanic Exchange (via Google EB)",
+            "seller_id": "2661838879228633168",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "investingchannel.com",
+            "name": "Investing Channel",
+            "seller_id": "2667464835884589376",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sbgi.net",
+            "name": "Sinclair Broadcasting",
+            "seller_id": "2675358844158156892",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Ezoic (via Google EB)",
+            "seller_id": "2676856567361380607",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "verticalscope.com",
+            "name": "Hometalk",
+            "seller_id": "2682659306733510660",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Sofa Score (via Google EB)",
+            "seller_id": "2683435463250748164",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "MediaLab (via Google EB)",
+            "seller_id": "2698241248518414798",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "cafemedia.com",
+            "name": "Cafe Media",
+            "seller_id": "2701511276000911507",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "tunein.com",
+            "name": "TuneIn Inc",
+            "seller_id": "2705864615417290753",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Pub Galaxy Group (via Google EB)",
+            "seller_id": "2706636676456718474",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Mobirix Corporation (via Google EB)",
+            "seller_id": "2708769293645848836",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "monumetric.com",
+            "name": "Monumetric",
+            "seller_id": "2710920004743668126",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Siwalu Software GmbH (via Google EB)",
+            "seller_id": "2718041480143774298",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Zipo Apps Ltd (via Google EB)",
+            "seller_id": "2718402566609117364",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Rhythm Software (via Google EB)",
+            "seller_id": "2718972769973772654",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "amazon.com",
+            "name": "Amazon UAM",
+            "seller_id": "2719019867620450718",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "amagi.com",
+            "name": "Amagi",
+            "seller_id": "2721881428965925360",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Post Gazette (via Google EB)",
+            "seller_id": "2722234321027932901",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - PeSoftVN (via Google EB)",
+            "seller_id": "2722581532525928731",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Madarsoft (via Google EB)",
+            "seller_id": "2722592029853819197",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ezoic.ai",
+            "name": "Ezoic",
+            "seller_id": "2723393041019642186",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "redventures.com",
+            "name": "Red Ventures",
+            "seller_id": "2724125428741514068",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Red Ventures (via Google EB)",
+            "seller_id": "2724128055147570007",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Maxflow BV (via Google EB)",
+            "seller_id": "2726315181746364607",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Stefan Pledl (via Google EB)",
+            "seller_id": "2727043668052484675",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Snigel (via Google EB)",
+            "seller_id": "2728394713651421279",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "snigelweb.com",
+            "name": "Snigel",
+            "seller_id": "2728396030235058274",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "snigelweb.com",
+            "name": "Snigel",
+            "seller_id": "2728396693270634596",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Gamegou Limited (via Google EB)",
+            "seller_id": "2728480845345005761",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - RV AppStudios (via Google EB)",
+            "seller_id": "2728484415016476870",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Mark Frick (via Google EB)",
+            "seller_id": "2729270986728743154",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "test.com",
+            "name": "TestPub",
+            "seller_id": "2731889995475264287",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Apps Innova Limited (via Google EB)",
+            "seller_id": "2733340065294917734",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Kdan Mobile (via Google EB)",
+            "seller_id": "2736976626326643531",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "adpushup.com",
+            "name": "Adpushup Inc",
+            "seller_id": "2737698684593446924",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Astontek Inc (via Google EB)",
+            "seller_id": "2738469568451125295",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - MobOwl GmbH (via Google EB)",
+            "seller_id": "2738480571251367995",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - 442 Apps (via Google EB)",
+            "seller_id": "2739143290585554992",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Edson Deda (via Google EB)",
+            "seller_id": "2741329083068522835",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Meteored (via Google EB)",
+            "seller_id": "2743489507008390067",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Cleveni Inc (via Google EB)",
+            "seller_id": "2748558277708030944",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - ESH Medya Grup (via Google EB)",
+            "seller_id": "2752438266807394415",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "freestar.com",
+            "name": "Freestar",
+            "seller_id": "2753675785523896670",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Ilyon Dynamics (via Google EB)",
+            "seller_id": "2754427873614832169",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - ALC Press Inc (via Google EB)",
+            "seller_id": "2754459194898718739",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "risecodes.com",
+            "name": "TypeA Holdings Ltd",
+            "seller_id": "2754490424016969782",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Bravolol (via Google EB)",
+            "seller_id": "2754610020300562522",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Blavity Inc (via Google EB)",
+            "seller_id": "2757473908318740951",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "audienciad.com",
+            "name": "Audienciad",
+            "seller_id": "2757543169808605705",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Waveline Media (via Google EB)",
+            "seller_id": "2758744138017874080",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Web Media Group AD (via Google EB)",
+            "seller_id": "2759455181765550657",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Search Engine Journal (via Google EB)",
+            "seller_id": "2759466155432157771",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "letsrun.com",
+            "name": "LetsRun.com LLC",
+            "seller_id": "2762382091407532051",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Malayala Manorama Co. Pvt. Ltd (via Google EB)",
+            "seller_id": "2762387513174597654",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "pubgalaxy.com",
+            "name": "Pub Galaxy Group",
+            "seller_id": "2768397835773616526",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Advista (via Google EB)",
+            "seller_id": "2773168032543875088",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "veraxen.com",
+            "name": "Veraxen",
+            "seller_id": "2773173672599298068",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - RikkiGames Ltd (via Google EB)",
+            "seller_id": "2774698704051839159",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Aged Studio Ltd (via Google EB)",
+            "seller_id": "2789189914984390819",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Go7Game (via Google EB)",
+            "seller_id": "2793709777060831393",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Familyes Network Inc (via Google EB)",
+            "seller_id": "2794449340330877367",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Tua Saude (via Google EB)",
+            "seller_id": "2798719945473466539",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - GamoVation (via Google EB)",
+            "seller_id": "2798722596516864174",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Thien Nguyen (via Google EB)",
+            "seller_id": "2803818605546774566",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "illumin.com",
+            "name": "140 Proof Inc (illumin INC)",
+            "seller_id": "2807970144171533194",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - WMG International (via Google EB)",
+            "seller_id": "2813082928286736652",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Ewingsoft (via Google EB)",
+            "seller_id": "2814672789376541671",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Chartreux (via Google EB)",
+            "seller_id": "2817629639311040567",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Wortise (via Google EB)",
+            "seller_id": "2819813923841056899",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Red Link To Media SL (via Google EB)",
+            "seller_id": "2819815664435273862",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Audify Tech Private (via Google EB)",
+            "seller_id": "2819818742702088328",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Vuukle (via Google EB)",
+            "seller_id": "2823280460723855946",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "genius.com",
+            "name": "Genius Media Group",
+            "seller_id": "2823492556250096336",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "yahooinc.com",
+            "name": "Yahoo Inc",
+            "seller_id": "2825328808255496712",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Media Group Bulgaria (via Google EB)",
+            "seller_id": "2825450508318089232",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "calculatorsoup.com",
+            "name": "Calculator Soup LLC",
+            "seller_id": "2832606098442101466",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "calculatorsoup.com",
+            "name": "Calculator Soup LLC",
+            "seller_id": "2832607751786406622",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - SmartMob (via Google EB)",
+            "seller_id": "2833540362184630772",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - 24H Online Advertising JSC (via Google EB)",
+            "seller_id": "2833579387708711431",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ezoic.ai",
+            "name": "Ezoic",
+            "seller_id": "2834292204858450860",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Interactive One LLC (via Google EB)",
+            "seller_id": "2834952003690373329",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "phonearena.com",
+            "name": "PhoneArena",
+            "seller_id": "2835006763499987236",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Quadronica (via Google EB)",
+            "seller_id": "2839230025570394691",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Daily Hive (via Google EB)",
+            "seller_id": "2839291932717294232",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Nexstar (via Google EB)",
+            "seller_id": "2839324674108629705",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - DigitalGoal Ltd (via Google EB)",
+            "seller_id": "2843633896812126390",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "bold-win.com",
+            "name": "Boldwin LTD",
+            "seller_id": "2850137996525511226",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Network N Ltd (via Google EB)",
+            "seller_id": "2850174797239755356",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "network-n.com",
+            "name": "Network N Ltd",
+            "seller_id": "2850176953179120222",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Gladly Inc (via Google EB)",
+            "seller_id": "2854391618578882886",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - CompuSport (via Google EB)",
+            "seller_id": "2854392874705822024",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Comcsoft (via Google EB)",
+            "seller_id": "2855102548199547548",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Pregnancy Tracker (via Google EB)",
+            "seller_id": "2857919021364224546",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Easybrain (via Google EB)",
+            "seller_id": "2860279781193097768",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Lazy Geniouz Pvt Ltd (via Google EB)",
+            "seller_id": "2864033848201519334",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "anyclip.com",
+            "name": "Anyclip",
+            "seller_id": "2868216097033625779",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Calculator Soup LLC (via Google EB)",
+            "seller_id": "2868332881606811680",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - El Informador (via Google EB)",
+            "seller_id": "2871084827518378076",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Enthused Digital LLC (via Google EB)",
+            "seller_id": "2873239426945720557",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - SportSport doo (via Google EB)",
+            "seller_id": "2873382870557073452",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Pulzo (via Google EB)",
+            "seller_id": "2876148118863159511",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Cyberax Media Private Limited (via Google EB)",
+            "seller_id": "2876246085951496448",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Guru99 Tech Pvt Ltd (via Google EB)",
+            "seller_id": "2879823778810896509",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Lola Digital Media (via Google EB)",
+            "seller_id": "2879832373770264706",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - CarBuzz (via Google EB)",
+            "seller_id": "2881409379158926160",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Onsquare (via Google EB)",
+            "seller_id": "2883435367711580179",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Urbanize Media LLC (via Google EB)",
+            "seller_id": "2883438135583121434",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "The Arena Group (via Google EB)",
+            "seller_id": "2884245607872930111",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Reality Blurb (via Google EB)",
+            "seller_id": "2884901660344132060",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Polydice Inc (via Google EB)",
+            "seller_id": "2884927319284064751",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - MenuPix LLC (via Google EB)",
+            "seller_id": "2884941717138514418",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - K Publishing (via Google EB)",
+            "seller_id": "2886347230548009590",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - US Harbors (via Google EB)",
+            "seller_id": "2891483102863893252",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Likemind (via Google EB)",
+            "seller_id": "2894951954717286598",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - BMW Blog (via Google EB)",
+            "seller_id": "2895674461522960741",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - QuVideo (via Google EB)",
+            "seller_id": "2898624390981690243",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - The Sports Drop LLC (via Google EB)",
+            "seller_id": "2898626666441941893",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "go.saambaa.com",
+            "name": "Saambaa",
+            "seller_id": "2898690995346416534",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Mamas Uncut (via Google EB)",
+            "seller_id": "2900827391301460011",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "DMG Media",
+            "seller_id": "2911032441097363470",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - ADVFN (via Google EB)",
+            "seller_id": "2919693294927553003",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - TK Solution (via Google EB)",
+            "seller_id": "2929748107455307974",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Golzak (via Google EB)",
+            "seller_id": "2935716304276889646",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Sneaker News (via Google EB)",
+            "seller_id": "2936489485421977884",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Tapped Out (via Google EB)",
+            "seller_id": "2939858891317388065",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Reach PLC (via Google EB)",
+            "seller_id": "2940593239633109964",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "The Daily Dot LLC (via Google EB)",
+            "seller_id": "2945228422965568084",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "valnetinc.com",
+            "name": "Valnet",
+            "seller_id": "2947298187720728590",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Read Theory (via Google EB)",
+            "seller_id": "2951385007614009423",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Egton Medical Information Systems (via Google EB)",
+            "seller_id": "2951423607860830291",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Contests2Win (via Google EB)",
+            "seller_id": "2952373543913857189",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "minutemedia.com",
+            "name": "Minute Media",
+            "seller_id": "2954622693783052507",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "ascendeum.com",
+            "name": "Ascendeum Co.",
+            "seller_id": "2955128080663781653",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "leafgroup.com",
+            "name": "Leaf Group",
+            "seller_id": "2955432523724693844",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thearenagroup.net",
+            "name": "The Arena Group",
+            "seller_id": "2959780829741391903",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - First Cry Parenting (via Google EB)",
+            "seller_id": "2961075945655443561",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "mobilefuse.com",
+            "name": "Mobile Fuse",
+            "seller_id": "2964605906026701296",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "smartnews.com",
+            "name": "Smart News",
+            "seller_id": "2965532580075479243",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Chive Media Group (via Google EB)",
+            "seller_id": "2969847264601645146",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Smart News (via Google EB)",
+            "seller_id": "2970513000202444857",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "smartnews.com",
+            "name": "Smart News",
+            "seller_id": "2970513419909668923",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - SFG Media Group (via Google EB)",
+            "seller_id": "2971069221124907278",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "legacy.com",
+            "name": "Legacy.com, Inc.",
+            "seller_id": "2971192556018147653",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "foxnews.com",
+            "name": "Fox News",
+            "seller_id": "2975536791722861414",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Boarding Area (via Google EB)",
+            "seller_id": "2976894500921614702",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Full Spectrum Services (via Google EB)",
+            "seller_id": "2976896271303778672",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ondemandkorea.com",
+            "name": "ODK Media",
+            "seller_id": "2977724511975055537",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Viraltrend Ltd. (via Google EB)",
+            "seller_id": "2986283338697744499",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "playwire.com",
+            "name": "Playwire",
+            "seller_id": "2990721854664024411",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "matchmediagroup.com",
+            "name": "Match Media",
+            "seller_id": "2990847075148570763",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Apartment Therapy (via Google EB)",
+            "seller_id": "2991514279544299668",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "adsbymediavine.com",
+            "name": "Mediavine",
+            "seller_id": "2991649124236861974",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Texas Monthly (via Google EB)",
+            "seller_id": "2995122193706197159",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - LetsRun (via Google EB)",
+            "seller_id": "2995130884731904169",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "hispanicexchange.com",
+            "name": "Hispanic Exchange",
+            "seller_id": "2997351320664350853",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - YourBow (via Google EB)",
+            "seller_id": "2998034261073666447",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - SoftNews (via Google EB)",
+            "seller_id": "3000807399888987011",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "news.co.uk",
+            "name": "NewsUK",
+            "seller_id": "3002211716571275481",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "barstoolsports.com",
+            "name": "BarstoolSports.com",
+            "seller_id": "3002334575671058801",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "BarstoolSports.com (via Google EB)",
+            "seller_id": "3002334953544294771",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - El Diario MX (via Google EB)",
+            "seller_id": "3006043838402732889",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Sales Frontier (via Google EB)",
+            "seller_id": "3006046188353823579",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "Nestle Purina Petcare Company (via Google EB)",
+            "seller_id": "3007494446930404346",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - SwimSwam (via Google EB)",
+            "seller_id": "3021978283630600474",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Car Scoops (via Google EB)",
+            "seller_id": "3025420632566210755",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "independent.co.uk",
+            "name": "The Independent",
+            "seller_id": "3026843969326620879",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "independent.co.uk",
+            "name": "The Independent",
+            "seller_id": "3026844723915464913",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Ziff Davis (via Google EB)",
+            "seller_id": "3026884067023856253",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst",
+            "seller_id": "3027040406148686587",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tegna.com",
+            "name": "Tegna",
+            "seller_id": "3028478567928243031",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "futbolsitesnetwork.com",
+            "name": "Futbol Sites LLC",
+            "seller_id": "3035661964282896992",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "pubnation.com",
+            "name": "Mediavine",
+            "seller_id": "3037227543858979302",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "reedpop.com",
+            "name": "ReedPop",
+            "seller_id": "3040845045159633593",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "reedpop.com",
+            "name": "ReedPop",
+            "seller_id": "3040847212901769915",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "verticalscope.com",
+            "name": "Hometalk",
+            "seller_id": "3046535401746408057",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "9to5mac.com",
+            "name": "925 LLC",
+            "seller_id": "3050878363691327692",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pch.com",
+            "name": "Publishers Clearing House",
+            "seller_id": "3056144592911933970",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pch.com",
+            "name": "Publishers Clearing House",
+            "seller_id": "3056147559048225300",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "corp.xumo.com",
+            "name": "Xumo",
+            "seller_id": "3063997664233202082",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amicusenterprises.com",
+            "name": "Amicus Enterprises LLC",
+            "seller_id": "3067590127006982153",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Amicus Enterprises LLC (via Google EB)",
+            "seller_id": "3067590622211678219",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "vizio.com",
+            "name": "Vizio",
+            "seller_id": "3074198674436203321",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Mediavine (via Google EB)",
+            "seller_id": "3077814941638402211",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "colossusmediassp.com",
+            "name": "Colossus",
+            "seller_id": "3078438591206989879",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "denofgeek.com",
+            "name": "DoG Tech LLC",
+            "seller_id": "3079211946784793061",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "DoG Tech LLC (via Google EB)",
+            "seller_id": "3079276494480941592",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "colossusmediassp.com",
+            "name": "Colossus",
+            "seller_id": "3081538394287710485",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "denofgeek.com",
+            "name": "DoG Tech LLC",
+            "seller_id": "3082749707689074696",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Warner Bros. Discovery (via Google EB)",
+            "seller_id": "3098818686006273011",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "directv.com",
+            "name": "DIRECTV LLC",
+            "seller_id": "3107571004142985627",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ladbiblegroup.com",
+            "name": "LADbible Group",
+            "seller_id": "3109041888137519538",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "proper.io",
+            "name": "Proper Media",
+            "seller_id": "3109667530445103848",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "CTA - Quora Inc (via Google EB)",
+            "seller_id": "3123461245995261996",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "aniview.com",
+            "name": "Aniview",
+            "seller_id": "3123991800553873581",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "thedailybeast.com",
+            "name": "Daily Beast",
+            "seller_id": "3127125397150311006",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "consumable.com",
+            "name": "Consumable",
+            "seller_id": "3129364219166663150",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "kueez.com",
+            "name": "Kueez Entertainment",
+            "seller_id": "3133660606033240149",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "scripps.com",
+            "name": "Scripps",
+            "seller_id": "3138678074246112135",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Scripps (via Google EB)",
+            "seller_id": "3138680282538779529",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "apartmenttherapy.com",
+            "name": "Apartment Therapy",
+            "seller_id": "3158936419498402291",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Zynga (via Google EB)",
+            "seller_id": "3160389503319744681",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ionedigital.com",
+            "name": "Interactive One LLC",
+            "seller_id": "3184322414754341502",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "barstoolsports.com",
+            "name": "BarstoolSports.com",
+            "seller_id": "3185022649663168790",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "playbuzz.com",
+            "name": "Ex.co",
+            "seller_id": "3192930039360332408",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "smartnews.com",
+            "name": "Smart News",
+            "seller_id": "3201028695267418832",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "system1.com",
+            "name": "System1, LLC",
+            "seller_id": "3204621648883818879",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "recurrent.io",
+            "name": "Recurrent Ventures Inc",
+            "seller_id": "3215515343208260547",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "overwolf.com",
+            "name": "Overwolf Ltd.",
+            "seller_id": "3218572101665366201",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "overwolf.com",
+            "name": "Overwolf Ltd.",
+            "seller_id": "3218572463633801403",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ezoic.co.uk",
+            "name": "Ezoic UK Limited",
+            "seller_id": "3224262582806192157",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "medianewsgroup.com",
+            "name": "Media News Group",
+            "seller_id": "3235732338042151148",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tribpub.com",
+            "name": "Tribune Publishing",
+            "seller_id": "3235738495901180142",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "washingtonpost.com",
+            "name": "The Washington Post",
+            "seller_id": "3236491856409731720",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ladbiblegroup.com",
+            "name": "LADbible Group",
+            "seller_id": "3250175891329720883",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "minutemedia.com",
+            "name": "Minute Media",
+            "seller_id": "3255358541753426311",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sportskeeda.com",
+            "name": "Absolute Sports",
+            "seller_id": "3265498197098701638",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "trustedmediabrands.com",
+            "name": "Trusted Media Brands",
+            "seller_id": "3270512827554537865",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "google.com",
+            "name": "Yahoo O&O (via Google EB)",
+            "seller_id": "3272040063424209715",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "ezoic.co.uk",
+            "name": "Ezoic UK Limited",
+            "seller_id": "3277087470771970058",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "futureplc.com",
+            "name": "Future PLC",
+            "seller_id": "3279894888904073382",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "pmc.com",
+            "name": "Penske Media Corp.",
+            "seller_id": "3280040453130363173",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "connatix.com",
+            "name": "Connatix Native Exchange Inc",
+            "seller_id": "3286586829842621292",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fandom.com",
+            "name": "Wikia",
+            "seller_id": "3316867512569634997",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "news.co.uk",
+            "name": "NewsUK",
+            "seller_id": "3331379546753540673",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fortune.com",
+            "name": "Fortune",
+            "seller_id": "3337964324508344973",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "prebid.the-ozone-project.com",
+            "name": "Ozone Project",
+            "seller_id": "3337992342509396649",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cafemedia.com",
+            "name": "Cafe Media",
+            "seller_id": "2529157218733858832",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "taboola.com",
+            "name": "Taboola",
+            "seller_id": "3357506016601120771",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "vidgo.com",
+            "name": "Vidgo",
+            "seller_id": "3367787995091378460",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hellomagazine.com",
+            "name": "HELLO! LTD",
+            "seller_id": "3371977516536242551",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "trustedstack.com",
+            "name": "TrustedStack",
+            "seller_id": "3377199372461613093",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "snack-media.com",
+            "name": "snack media",
+            "seller_id": "3382818874738024480",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "clutchpoints.com",
+            "name": "Clutch Points",
+            "seller_id": "3405947916529902053",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "paramount.com",
+            "name": "Paramount Global",
+            "seller_id": "3411300617937690814",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hearst.com",
+            "name": "Hearst Magazines",
+            "seller_id": "3418469067244118485",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "scripps.com",
+            "name": "Scripps",
+            "seller_id": "3423613939638805070",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amazon.com",
+            "name": "Amazon UAM",
+            "seller_id": "3427339882941326062",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "aditude.io",
+            "name": "Aditude",
+            "seller_id": "3433633362181300978",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "journeymv.com",
+            "name": "Mediavine",
+            "seller_id": "3443142311460937743",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "sbgi.net",
+            "name": "Sinclair Broadcasting",
+            "seller_id": "3454040600880291876",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "space-mob.com",
+            "name": "SpaceMob",
+            "seller_id": "3459855022353752172",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "apartmenttherapy.com",
+            "name": "Apartment Therapy",
+            "seller_id": "3461951032840364955",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "outsideinc.com",
+            "name": "Outside Inc",
+            "seller_id": "3462744384410165377",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "photocircleapp.com",
+            "name": "PhotoCircle",
+            "seller_id": "3463254703247139023",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "sbgi.net",
+            "name": "Sinclair Broadcasting",
+            "seller_id": "3466991890279112771",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "brainly.com",
+            "name": "Brainly",
+            "seller_id": "3469791559652679859",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cmg.com",
+            "name": "Cox Media Group",
+            "seller_id": "3474099469027319879",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "franklymedia.com",
+            "name": "Frankly Media (IB Times)",
+            "seller_id": "3474286536705384559",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "franklymedia.com",
+            "name": "Frankly Media (IB Times)",
+            "seller_id": "3474294720161587315",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dexerto.com",
+            "name": "Dexerto",
+            "seller_id": "3478382530128716041",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "hashtag-labs.com",
+            "name": "Hashtag Labs",
+            "seller_id": "3478531026634875154",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "nesn.com",
+            "name": "NESN",
+            "seller_id": "3482324675239813217",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "openweb.com",
+            "name": "OpenWeb",
+            "seller_id": "3482865003332051270",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "aniview.com",
+            "name": "Aniview",
+            "seller_id": "3482868977292485608",
+            "seller_type": "BOTH"
+        },
+        {
+            "domain": "nesn.com",
+            "name": "NESN",
+            "seller_id": "3482877473056564210",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tvtropes.org",
+            "name": "TVTropes",
+            "seller_id": "3483027431386718783",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nextmillennium.io",
+            "name": "Next Millennium Media",
+            "seller_id": "3483642272128377483",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "nextmillennium.io",
+            "name": "Next Millennium Media",
+            "seller_id": "3483642730188317326",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "flipboard.com",
+            "name": "Flipboard",
+            "seller_id": "3483790097420067522",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "heavy.com",
+            "name": "Heavy Inc",
+            "seller_id": "3485138474007208204",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://hcodemedia.com/",
+            "name": "H Code Media",
+            "seller_id": "3487371017335021919",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "futuretodayinc.com",
+            "name": "Future Today",
+            "seller_id": "3490132022045647212",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "brainly.com",
+            "name": "Brainly",
+            "seller_id": "3490270066002305933",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dmgmedia.co.uk",
+            "name": "DMG Media",
+            "seller_id": "3492164289672716436",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dotdashmeredith.com",
+            "name": "Meredith Corporation",
+            "seller_id": "3492417466636640674",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "brit.co",
+            "name": "Brit Media",
+            "seller_id": "3494515674644947890",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "time.com",
+            "name": "TIME",
+            "seller_id": "3497478575726993791",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "directv.com",
+            "name": "DIRECTV LLC",
+            "seller_id": "3500276271445647977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "corp.xumo.com",
+            "name": "Xumo",
+            "seller_id": "3504035135001404267",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "amazon.com",
+            "name": "Amazon UAM",
+            "seller_id": "3504036922429219693",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "aetv.com",
+            "name": "A+E Networks",
+            "seller_id": "3504055784524686191",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "buzzfeed.com",
+            "name": "Buzzfeed, Inc.",
+            "seller_id": "3505422489851207781",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://hcodemedia.com/",
+            "name": "H Code Media",
+            "seller_id": "3505458602263389062",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "outsideinc.com",
+            "name": "Outside Inc",
+            "seller_id": "3508349833955975490",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "arkadium.com",
+            "name": "Arkadium",
+            "seller_id": "3509081220623311307",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "mediatradecraft.com",
+            "name": "Media Tradecraft",
+            "seller_id": "3509094205307691480",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "google.com",
+            "name": "The Motley Fool (via Google EB)",
+            "seller_id": "3513539264983802799",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "domain": "timeout.com",
+            "name": "Time Out",
+            "seller_id": "3514907918589698052",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gamurs.com",
+            "name": "Gamurs",
+            "seller_id": "3514913684197416975",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ladbiblegroup.com",
+            "name": "LADbible Group",
+            "seller_id": "3517679833934929999",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bloxdigital.com",
+            "name": "Blox Digital",
+            "seller_id": "3517797710176395399",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lee.net",
+            "name": "Lee Enterprises",
+            "seller_id": "3517801091984990345",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bloxdigital.com",
+            "name": "Blox Digital",
+            "seller_id": "3518461307546181777",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bloxdigital.com",
+            "name": "Blox Digital",
+            "seller_id": "3518476575165063325",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "futureplc.com",
+            "name": "Future PLC",
+            "seller_id": "3524196994585141686",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "dailykos.com",
+            "name": "Kos Media",
+            "seller_id": "3525653734824550517",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zeammedia.com",
+            "name": "Zeam Media",
+            "seller_id": "3527942878506459186",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "cmg.com",
+            "name": "Cox Media Group",
+            "seller_id": "3527945753559244852",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "zeammedia.com",
+            "name": "Zeam Media",
+            "seller_id": "3527947585832558646",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "gamurs.com",
+            "name": "Gamurs",
+            "seller_id": "3528530833423934234",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "9dotsmedia.com",
+            "name": "9 Dots Media LTD",
+            "seller_id": "3529351513862251488",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://www.atmosphere.tv/",
+            "name": "Atmosphere",
+            "seller_id": "3532840818811281764",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lee.net",
+            "name": "Lee Enterprises",
+            "seller_id": "3532979650097521333",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "ctvbuyer.com",
+            "name": "CTV Buyer",
+            "seller_id": "3533567176080302493",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "timeout.com",
+            "name": "Time Out",
+            "seller_id": "3534246730075677117",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "newsweek.com",
+            "name": "Newsweek.com",
+            "seller_id": "3538697789661716823",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bonbon.tech",
+            "name": "Bonbon",
+            "seller_id": "3543849790628372488",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "frndlytv.com",
+            "name": "FrndlyTV",
+            "seller_id": "3543951127940636700",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "wavefront.tv",
+            "name": "WavefrontTV",
+            "seller_id": "3550963510114459929",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "rollicgames.com",
+            "name": "Rollic Games",
+            "seller_id": "3551062034080539257",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "fubo.tv",
+            "name": "FuboTV",
+            "seller_id": "3554065068729507859",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "videoelephant.tv",
+            "name": "Video Elephant",
+            "seller_id": "3554690209230561496",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "openweb.com",
+            "name": "OpenWeb",
+            "seller_id": "3554728650513260790",
+            "seller_type": "PUBLISHER"
+        }
+    ],
+    "version": 1.0
+}
